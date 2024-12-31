@@ -1,3 +1,3 @@
-Ola, Esse e um pequeno site com alguns personagens da serie Pokemon =]
+Ola, Este e um pequeno site com alguns personagens da serie Pokemon =]
 
-![Uploading image.png…]()
+https://resource.pokemon-home.com/battledata/img/pokei128/icon0025_f06_s0.png
